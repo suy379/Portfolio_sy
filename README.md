@@ -22,16 +22,14 @@
 - 2019년도 2학기 '통계학세미나' 수업 팀 프로젝트
 - 프로젝트 소개
   - 머신러닝 기법과 딥러닝 기법을 활용하여, 개인에게 맞춤형 맥주를 추천해줄 수 있는 맥주 추천 알고리즘 개발
-- [프로젝트 GitHub](https://github.com/statseminar/Beer-recommendation-system)
-- [발표자료 다운로드](https://github.com/suy379/Portfolio_sy/blob/main/2019-2_%EB%A7%A5%EC%A3%BC_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C(%EC%99%84%EC%84%B1%EB%B3%B8).pdf)
+- [프로젝트 GitHub](https://github.com/statseminar/Beer-recommendation-system) / [발표자료 다운로드](https://github.com/suy379/Portfolio_sy/blob/main/2019-2_%EB%A7%A5%EC%A3%BC_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C(%EC%99%84%EC%84%B1%EB%B3%B8).pdf)
 
 
 ### 04. 고양시 자전거대여소 입지 분석 공모전 -장려상 수상(2020)
 - 2020.07.~08.
 - 프로젝트 소개
   - COMPAS에서 주최한 고양시 자전거대여소(피프틴)의 새로운 장소를 데이터로 도출하는 입지 분석 프로젝트
-- [프로젝트 GitHub](https://github.com/suy379/Goyang_fifteen)
-- [발표자료 다운로드](https://github.com/suy379/Portfolio_sy/blob/main/%EA%B3%A0%EC%96%91%EC%8B%9C_%ED%94%BC%ED%94%84%ED%8B%B4_%EC%9E%85%EC%A7%80%EB%B6%84%EC%84%9D_YEONS_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+- [프로젝트 GitHub](https://github.com/suy379/Goyang_fifteen) / [발표자료 다운로드](https://github.com/suy379/Portfolio_sy/blob/main/%EA%B3%A0%EC%96%91%EC%8B%9C_%ED%94%BC%ED%94%84%ED%8B%B4_%EC%9E%85%EC%A7%80%EB%B6%84%EC%84%9D_YEONS_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 
 ### 05. 한국어 문서 추출요약 프로젝트(2020)
