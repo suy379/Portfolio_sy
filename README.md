@@ -25,14 +25,21 @@
 - [프로젝트 GitHub](https://github.com/statseminar/Beer-recommendation-system) / [발표자료 다운로드](https://github.com/suy379/Portfolio_sy/blob/main/2019-2_%EB%A7%A5%EC%A3%BC_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C(%EC%99%84%EC%84%B1%EB%B3%B8).pdf)
 
 
-### 04. 고양시 자전거대여소 입지 분석 공모전 -장려상 수상(2020)
+### 04. IGA Works 광고 채널 기여도 분석 모델 연구 (2019)
+- 2019년도 2학기 Growth Hackers X IGA Works 외부 프로젝트
+- 프로젝트 소개
+  - 광고주에게 매체별 기여도가 어떤지를 알려주는 IGA Works 사의 data-driven attribution 모델 연구 프로젝트
+  - 고객의 접속 path 구축 및 최종 매체별 기여도 판단을 위해 기존에 사용되는 single-touch 방법 이외의 multi-touch 방법인 Shapely와 Markov 모델 적용
+
+
+### 05. 고양시 자전거대여소 입지 분석 공모전 -장려상 수상(2020)
 - 2020.07.~08.
 - 프로젝트 소개
   - COMPAS에서 주최한 고양시 자전거대여소(피프틴)의 새로운 장소를 데이터로 도출하는 입지 분석 프로젝트
 - [프로젝트 GitHub](https://github.com/suy379/Goyang_fifteen) / [발표자료 다운로드](https://github.com/suy379/Portfolio_sy/blob/main/%EA%B3%A0%EC%96%91%EC%8B%9C_%ED%94%BC%ED%94%84%ED%8B%B4_%EC%9E%85%EC%A7%80%EB%B6%84%EC%84%9D_YEONS_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 
-### 05. 한국어 문서 추출요약 프로젝트(2020)
+### 06. 한국어 문서 추출요약 프로젝트(2020)
 - 2020년도 2학기 '데이터마이닝(2)' 수업 팀 프로젝트
 - 프로젝트 소개
   - 데이콘에서 주최한 각 뉴스 기사 원문 데이터에서 3개의 중요한 문장을 추출하는 한국어 문서 추출요약 프로젝트 
